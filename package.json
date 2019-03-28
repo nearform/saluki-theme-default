@@ -1,0 +1,25 @@
+{
+  "name": "saluki-theme-default",
+  "version": "0.1.0",
+  "description": "Default themes for Saluki",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearform/saluki-theme-default.git"
+  },
+  "author": "NearForm",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nearform/saluki-theme-default/issues"
+  },
+  "homepage": "https://github.com/nearform/saluki-theme-default#readme",
+  "keywords": [
+    "saluki",
+    "css-in-js",
+    "styled-components",
+    "emotion",
+    "utility",
+    "css utility",
+    "react"
+  ]
+}
