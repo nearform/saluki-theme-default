@@ -1,7 +1,7 @@
 {
   "name": "saluki-theme-default",
-  "version": "0.1.0",
-  "description": "Default themes for Saluki",
+  "version": "1.0.0",
+  "description": "Saluki's default theme",
   "main": "index.js",
   "repository": {
     "type": "git",
